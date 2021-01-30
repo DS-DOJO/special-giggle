@@ -10,3 +10,4 @@ x = 10
 print(sys.version)
 print(sys.executable)
 print(pd.DataFrame(data=[1, 2, 3]).head())
+print("VsCode setup complete")
