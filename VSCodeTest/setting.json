@@ -1,0 +1,18 @@
+{
+    "python.pythonPath": "C:\\Users\\rahul\\.conda\\envs\\GCProject\\python.exe",
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "Predawn",
+    "kite.showWelcomeNotificationOnStartup": false,
+    "window.zoomLevel": 1,
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "workbench.iconTheme": "ayu",
+    "workbench.settings.editor": "json",
+    "workbench.settings.openDefaultSettings": true,
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "git.autofetch": true
+}
